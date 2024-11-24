@@ -1,0 +1,32 @@
+[
+  {},
+  {
+    "nombreDelAnimal": "Pool",
+    "edad": "5",
+    "tipoDEAnimal": "Perro",
+    "colorDelAnimal": "Marron",
+    "enfermedad": "Intoxicacion"
+  },
+  {
+    "nombreDelAnimal": "Pool",
+    "edad": "5",
+    "tipoDEAnimal": "Perro",
+    "colorDelAnimal": "Marron",
+    "enfermedad": "Intoxicacion"
+  },
+  {
+    "nombreDelAnimal": "Zeus",
+    "edad": "3",
+    "tipoDEAnimal": "perro",
+    "colorDelAnimal": "Gris",
+    "enfermedad": "Rabia"
+  },
+  {
+    "nombreDelAnimal": "Zeus",
+    "edad": "3",
+    "tipoDEAnimal": "perro",
+    "colorDelAnimal": "Gris",
+    "enfermedad": "Rabia"
+  },
+  {}
+]
